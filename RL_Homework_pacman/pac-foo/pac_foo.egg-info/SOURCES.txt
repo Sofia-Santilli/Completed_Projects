@@ -1,0 +1,7 @@
+README.md
+setup.py
+pac_foo.egg-info/PKG-INFO
+pac_foo.egg-info/SOURCES.txt
+pac_foo.egg-info/dependency_links.txt
+pac_foo.egg-info/requires.txt
+pac_foo.egg-info/top_level.txt
