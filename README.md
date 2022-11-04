@@ -18,25 +18,35 @@
 
 2. **Reinforcement Learning**: two reinforcement learning projects:
 * implementation of a very simplified version of Pacman
-* implementation of the off-policy _Deep Deterministic Policy Gradient_ algorithm, tested on Mujoco’s [_HalfCheetah-v2_](https://gym.openai.com/envs/HalfCheetah-v2/) environment.
+* based on a neural network that applies the off-policy _Deep Deterministic Policy Gradient_ algorithm, 
+in order to let the Mujoco’s [_HalfCheetah-v2_](https://gym.openai.com/envs/HalfCheetah-v2/) learn how 
+to trot in the MuJoCo Advanced physics simulation of OpenAI Gym.
 
-3. **Fundations of Computer Graphics**: three homeworks in which I implemented very simple raytracer, path tracer and volumetric path tracer using the library YoctoGL. Everything has been done using Visual Studio Code with C/C++.
+3. **Fundations of Computer Graphics**: three homeworks about modeling and rendering three-dimensional scenes, using the library YoctoGL. Everything has been done using Visual Studio Code with C/C++.
+* Homework 1: implementation of a _Ray tracer_
+* Homework 2: implementation of a _Path tracer_
+* Homework 3: implementation of a _Volumetric Path tracer_
 
-4. **Interactive Graphics**: two homeworks consisting in the implementation of basic tasks in computer graphics, such as rendering a scene, 
-shadowing, variable lighting and animations with WebGL, and a final project realized in group with other colleagues, which consists in the 
+4. **Interactive Graphics**: two homeworks and a project.
+* homeworks consisting in the implementation of basic tasks in computer graphics, such as rendering a scene, 
+shadowing, variable lighting and animations with WebGL,
+* a final project realized in group with other colleagues, which consists in the 
 implementation of a web version of the mobile game "Crossy road", using WebGL and the advanced library ThreeJS. 
 It is possible to play the game at [this link](https://lucpol98.github.io/university_projects/Master%20Degree/Interactive%20Graphics/Project/main.html).
 
 5. **Natural Language Processing**: homework on Word-in-Context Disambiguation (WiCD) using PyTorch.
 
-6. **Vision and Perception**:
-* two homeworks
+6. **Vision and Perception**: two homeworks and a project were carried out.
+* the two homework assignements were on [_Image Processing_](https://en.wikipedia.org/wiki/Digital_image_processing)
+and [_Multiview Geometry Projective Geometry_](https://en.wikipedia.org/wiki/Projective_geometry)
 * project consisting in the implementation and the extension of the paper
  "[_SinGAN: Learning a Generative Model from a Single Natural Image_](https://arxiv.org/pdf/1905.01164.pdf)". 
-In particular, the extension of the paper consists in the adaptation of the network to make it work 
-with medical images.
+ SinGAN is a generative neural network, made up by a pyramid of generators that are trained on an image pyramid obtained by downsampling the single training image.
+ In particular, our extension of the paper consists in the adaptation of the network to make it work 
+ with medical images. The aim of the project, in fact, is to use SinGAN in order to increase the images of the datasets used in the medical field in a realistic way.
 
-7. **Autonomous and Mobile Robots**: 
+7. **Autonomous and Mobile Robots**: Implementation and comparison of Classic and Primitive-based versions of RRT*
+The two versions of RRT* have been developed in an Ubuntu 18.04 environment using C++ and performing simulations in CoppeliaSim 4.0 EDU, on a unicycle, here treated as a Dubins' vehicle.
 
 8. [**Neural Networks**](https://github.com/Sofia-Santilli/Completed_Projects/tree/main/Master%20degree%20projects/Neural%20Networks): Reimplementation of the approach proposed by the paper "[_Learning strides in convolutional neural networks_](https://arxiv.org/pdf/2202.01653.pdf)".
 We reimplemented two different pooling layers, used instead of the strides in the convolutional layers and that work in the frequency domain (Fixed spectral pooling and Learnable spectral pooling).
