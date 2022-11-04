@@ -6,8 +6,9 @@ The two versions of RRT* have been developed in an Ubuntu 18.04 environment usin
 
 ***
 <p align="left">
-<img src="/demonstrative_videos/video1.gif" width="60%"/>
+<img src="demonstrative_videos/video1.gif" width="60%"/>
 </p>
+
 ***
 
 **Authors**:
