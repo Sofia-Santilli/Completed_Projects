@@ -12,17 +12,20 @@
 
 ## Master degree projects
 
-1. **Machine Learning**
+1. **Machine Learning**: two homeworks in which we needed to solve two different classification tasks, using respectively traditional ML approaches (SVM, decision trees) and neural networks (AlexNet and TransferNet).
 
-2. **Reinforcement Learning**
+2. **Reinforcement Learning**: two reinforcement learning projects, in which we had to implement respectively a very simplified version of Pacman and TRPO, tested on Mujoco’s [_HalfCheetah-v2_](https://gym.openai.com/envs/HalfCheetah-v2/) environment.
 
-3. **Fundations of Computer Graphics**
+3. **Fundations of Computer Graphics**: three homeworks in which I implemented very simple raytracer, path tracer and volumetric path tracer using the library YoctoGL. Everything has been done using Visual Studio Code with C/C++.
 
-4. **Interactive Graphics**
+4. **Interactive Graphics**: two homeworks consisting in the implementation of basic tasks in computer graphics, such as rendering a scene, 
+shadowing, variable lighting and animations with WebGL, and a final project realized in group with other colleagues, which consists in the 
+implementation of a web version of the mobile game "Crossy road", using WebGL and the advanced library ThreeJS. 
+It is possible to play the game at [this link](https://lucpol98.github.io/university_projects/Master%20Degree/Interactive%20Graphics/Project/main.html).
 
-5. **Natural Language Processing**
+5. **Natural Language Processing**: 
 
-6. **Autonomous and Mobile Robots**
+6. **Autonomous and Mobile Robots**: 
 
 7. [**Neural Networks**](https://github.com/Sofia-Santilli/Completed_Projects/tree/main/Master%20degree%20projects/Neural%20Networks): Reimplementation of the approach proposed by the paper "[_Learning strides in convolutional neural networks_](https://arxiv.org/pdf/2202.01653.pdf)".
 We reimplemented two different pooling layers, used instead of the strides in the convolutional layers and that work in the frequency domain (Fixed spectral pooling and Learnable spectral pooling).
