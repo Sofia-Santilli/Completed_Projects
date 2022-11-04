@@ -18,11 +18,11 @@
 
 2. **Reinforcement Learning**: two reinforcement learning projects:
 * implementation of a very simplified version of Pacman
-* based on a neural network that applies the off-policy _Deep Deterministic Policy Gradient_ algorithm, 
+* project based on a neural network that applies the off-policy _Deep Deterministic Policy Gradient_ algorithm, 
 in order to let the Mujoco’s [_HalfCheetah-v2_](https://gym.openai.com/envs/HalfCheetah-v2/) learn how 
 to trot in the MuJoCo Advanced physics simulation of OpenAI Gym.
 
-3. **Fundations of Computer Graphics**: three homeworks about modeling and rendering three-dimensional scenes, using the library YoctoGL. Everything has been done using Visual Studio Code with C/C++.
+3. **Fundamentals of Computer Graphics**: three homeworks about modeling and rendering three-dimensional scenes, using the library YoctoGL. Everything has been done using Visual Studio Code with C/C++.
 * Homework 1: implementation of a _Ray tracer_
 * Homework 2: implementation of a _Path tracer_
 * Homework 3: implementation of a _Volumetric Path tracer_
