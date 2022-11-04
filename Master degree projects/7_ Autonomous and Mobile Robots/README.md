@@ -4,6 +4,13 @@
 
 The two versions of RRT* have been developed in an Ubuntu 18.04 environment using C++ and performing simulations in CoppeliaSim 4.0 EDU.
 
+***
+classical RRT*, env 1:
+<p align="left">
+<img src="demonstrative_videos/video1.mp4" width="45%"/>
+</p>
+
+***
 **Authors**:
 
 Lorenzo Mattia 1793272
