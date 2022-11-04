@@ -35,7 +35,7 @@ Level 3:
 
 ## Report
 
-For further details, the report of the project is available in this repository at [this link](https://sapienzainteractivegraphicscourse.github.io/final-project-mpps-team/IG_Report.pdf).
+For further details, the report of the project is available in this repository at [this link](https://sapienzainteractivegraphicscourse.github.io/final-project-mpps-team/IG_Report_MPPS_team.pdf).
 
 ## Group members
 - Matteo Matera 1795339
