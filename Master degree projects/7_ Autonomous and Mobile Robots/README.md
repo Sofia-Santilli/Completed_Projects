@@ -7,7 +7,7 @@ The two versions of RRT* have been developed in an Ubuntu 18.04 environment usin
 ***
 classical RRT*, environment 1:
 <p align="left">
-<img src="demonstrative_videos/level1.gif" width="30%"/>
+<img src="demonstrative_videos/video1.gif" width="30%"/>
 </p>
 
 ***
