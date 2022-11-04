@@ -12,9 +12,13 @@
 
 ## Master degree projects
 
-1. **Machine Learning**: two homeworks in which we needed to solve two different classification tasks, using respectively traditional ML approaches (SVM, decision trees) and neural networks (AlexNet and TransferNet).
+1. **Machine Learning**: two homeworks in which we needed to solve two different classification tasks:
+* Homework 1, whose goal is to classify binary functions (each composed of a set of assembly instructions of no predefined lenght) into 4 different classes, using traditional ML approaches (SVM, decision trees) 
+* Homework 2, whose goal is to classify a series of images belonging to 8 different classes. Neural networks (AlexNet and TransferNet) were employed.
 
-2. **Reinforcement Learning**: two reinforcement learning projects, in which we had to implement respectively a very simplified version of Pacman and TRPO, tested on Mujoco’s [_HalfCheetah-v2_](https://gym.openai.com/envs/HalfCheetah-v2/) environment.
+2. **Reinforcement Learning**: two reinforcement learning projects:
+* implementation of a very simplified version of Pacman
+* implementation of the off-policy _Deep Deterministic Policy Gradient_ algorithm, tested on Mujoco’s [_HalfCheetah-v2_](https://gym.openai.com/envs/HalfCheetah-v2/) environment.
 
 3. **Fundations of Computer Graphics**: three homeworks in which I implemented very simple raytracer, path tracer and volumetric path tracer using the library YoctoGL. Everything has been done using Visual Studio Code with C/C++.
 
@@ -23,20 +27,27 @@ shadowing, variable lighting and animations with WebGL, and a final project real
 implementation of a web version of the mobile game "Crossy road", using WebGL and the advanced library ThreeJS. 
 It is possible to play the game at [this link](https://lucpol98.github.io/university_projects/Master%20Degree/Interactive%20Graphics/Project/main.html).
 
-5. **Natural Language Processing**: 
+5. **Natural Language Processing**: homework on Word-in-Context Disambiguation (WiCD) using PyTorch.
 
-6. **Autonomous and Mobile Robots**: 
+6. **Vision and Perception**:
+* two homeworks
+* project consisting in the implementation and the extension of the paper
+ "[_SinGAN: Learning a Generative Model from a Single Natural Image_](https://arxiv.org/pdf/1905.01164.pdf)". 
+In particular, the extension of the paper consists in the adaptation of the network to make it work 
+with medical images.
 
-7. [**Neural Networks**](https://github.com/Sofia-Santilli/Completed_Projects/tree/main/Master%20degree%20projects/Neural%20Networks): Reimplementation of the approach proposed by the paper "[_Learning strides in convolutional neural networks_](https://arxiv.org/pdf/2202.01653.pdf)".
+7. **Autonomous and Mobile Robots**: 
+
+8. [**Neural Networks**](https://github.com/Sofia-Santilli/Completed_Projects/tree/main/Master%20degree%20projects/Neural%20Networks): Reimplementation of the approach proposed by the paper "[_Learning strides in convolutional neural networks_](https://arxiv.org/pdf/2202.01653.pdf)".
 We reimplemented two different pooling layers, used instead of the strides in the convolutional layers and that work in the frequency domain (Fixed spectral pooling and Learnable spectral pooling).
 We also substituted the classical Conv2d layers in the network with [_Parametrized Hypercomplex Convolutional layers_](https://arxiv.org/pdf/2110.04176.pdf), which allow to reduce the overall number of parameters by a factor of N.
 
-8. [**Deep Learning**](https://github.com/Sofia-Santilli/Completed_Projects/tree/main/Master%20degree%20projects/Deep%20Learning): development of architectures that address the Visual Question Answering task. It is a semantic task that aims to answer questions based on an image.
+9. [**Deep Learning**](https://github.com/Sofia-Santilli/Completed_Projects/tree/main/Master%20degree%20projects/Deep%20Learning): development of architectures that address the Visual Question Answering task. It is a semantic task that aims to answer questions based on an image.
 These questions require an understanding of vision, language and commonsense knowledge to answer. The VQA v2.0 dataset, containing open-ended questions about images, has been employed.
 
-9. **Elective in AI - part1**
+10. **Elective in AI - part1**
 
-10. **Elective in AI - Human-Robot Interaction and Reasoning**: The project consists in making a Pepper robot, named
+11. **Elective in AI - Human-Robot Interaction and Reasoning**: The project consists in making a Pepper robot, named
 Hanoi, able to perform the reasoning needed to solve the Tower of Hanoi game and to do this by taking
 turns with a human user. 
 * The reasoning part was implemented through the AIplan4UE framework, that allowed the robot to plan the most suitable actions to performe in the game.

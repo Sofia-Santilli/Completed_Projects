@@ -1,2 +1,0 @@
-Nel file colab ci sta la configurazione iniziale base, quella con tutti e 3 i dischi sulla prima asta.
-Nel file .py ci sta la configurazione che richiede una mossa in più nel piano, dati che il blocco più piccolo si trova sulla seconda asta.

@@ -1,0 +1,1 @@
+from pac_foo.envs.pac_env import PacmanEnv
