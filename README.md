@@ -55,7 +55,8 @@ We also substituted the classical Conv2d layers in the network with [_Parametriz
 9. [**Deep Learning**](https://github.com/Sofia-Santilli/Completed_Projects/tree/main/Master%20degree%20projects/Deep%20Learning): development of architectures that address the Visual Question Answering task. It is a semantic task that aims to answer questions based on an image.
 These questions require an understanding of vision, language and commonsense knowledge to answer. The VQA v2.0 dataset, containing open-ended questions about images, has been employed.
 
-10. **Elective in AI - part1**
+10. **Elective in AI - part1** - In this pproject we proposed and developed a Conditional Generative Adversarial Network (CGAN) for brain MRI denoising in the k-space. 
+It is a novel approach. In fact previously denoising of brain MRI in the k-space has been done only through simpler DnCNN, that we used as baseline for our comparisons.
 
 11. **Elective in AI - Human-Robot Interaction and Reasoning**: The project consists in making a Pepper robot, named
 Hanoi, able to perform the reasoning needed to solve the Tower of Hanoi game and to do this by taking
