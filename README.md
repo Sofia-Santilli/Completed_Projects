@@ -72,8 +72,8 @@ to successfully interact with people of different ages and to suggest to the per
 
 12. **Planning and Reasoning**:
 * for the Planning part, I wrote an essay with an overview of the  methods applied in the last decades in order to solve path
-planning problems, explaining in details why RRTs gained the attention of many researchers. Then different versions of the 
-Rapidly-exploring Random Tree algorithms are presented and their functioning is explained also through pseudocode. 
+planning problems, explaining in details why RRTs gained the attention of many researchers. Then different versions of the 
+Rapidly-exploring Random Tree algorithms are presented and their functioning is explained also through pseudocode. 
 Their properties are highlighted and comparisons between them are done.
 * for the Reasoning part, three answers to reasoning problems.
 
