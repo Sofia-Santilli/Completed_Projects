@@ -70,5 +70,12 @@ otherwise it would risk invading the user’s intimate zone.
 Finally, we make the robot collect information about the user to build a simplified user’s profile that allows 
 to successfully interact with people of different ages and to suggest to the person the most appropriate level of the game.
 
+12. **Planning and Reasoning**:
+* for the Planning part, I wrote an essay with an overview of the  methods applied in the last decades in order to solve path
+planning problems, explaining in details why RRTs gained the attention of many researchers. Then different versions of the 
+Rapidly-exploring Random Tree algorithms are presented and their functioning is explained also through pseudocode. 
+Their properties are highlighted and comparisons between them are done.
+* for the Reasoning part, three answers to reasoning problems.
+
 
 ***
